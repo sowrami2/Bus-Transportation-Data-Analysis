@@ -2,6 +2,8 @@
 
 Imagine a bustling city where thousands of passengers rely daily on an efficient bus system to reach their destinations. This repository features the development of an Excel dashboard analyzing transactional data from December 2023 to January 2024, offering critical insights into operational metrics and trends within the bus company. By focusing on bus utilization rates, identifying the busiest routes, and pinpointing peak hours, the analysis aims to streamline operations and enhance the overall passenger experience. These insights are pivotal for making informed decisions that improve efficiency and service delivery across the transportation network.
 
+<a href="https://drive.google.com/file/d/1bKnqRvZQ5JINz2FWuGvxpdbsaNbpRN77/view?usp=sharing">Data
+
 Key Insights Gathered:
 1. In December 2023, the city's buses carried a whopping 5,654 passengers. But come January 2024, this number dwindled to just 933, marking a dramatic year-over-year decrease of 83.50%. 
 2. 2023's data painted the Central Line as the hero of the bus network, bustling with activity, while the South Line remained serene and calm. But as the calendar turned to 2024, the narrative shifted. The East-West Express took the crown as the busiest route, and the North Circular became the tranquil path less traveled.
